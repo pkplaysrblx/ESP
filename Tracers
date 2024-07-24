@@ -1,4 +1,3 @@
---// Tax'd from bliss
 --// Locals:
 local workspace = game:GetService("Workspace")
 local player = game:GetService("Players").LocalPlayer
