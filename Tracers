@@ -1,4 +1,4 @@
---// Made by Blissful#4992
+--// Tax'd from bliss
 --// Locals:
 local workspace = game:GetService("Workspace")
 local player = game:GetService("Players").LocalPlayer
